@@ -1,6 +1,6 @@
 package com.agendamentodeconsulta.entity;
 
-public class Clerk {
+public class Attendant {
 
     private Long id;
 
